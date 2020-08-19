@@ -1,7 +1,8 @@
 # Example project for a Swiftc Xcode 12 beta 5 bug
 
-Nimble bug report: https://github.com/Quick/Nimble/issues/809
 Currently using Xcode 12 beta 5 with Nimble 9.0.0-rc.1 and Quick 3.0.0, the problem also exists in Nimble 8.1.1.
+
+Related: Nimble bug report: https://github.com/Quick/Nimble/issues/809
 
 **To reproduce:**
 
